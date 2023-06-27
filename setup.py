@@ -37,6 +37,6 @@ setup(
     package_data={
         'lndf_robot': extra_pkg_files,
     },
-    install_requires=read_requirements_file('requirements.txt') + ['airobot @ git+https://github.com/Improbable-AI/airobot.git@qa#egg=airobot']
+    install_requires=read_requirements_file('requirements.txt') + ['airobot @ git+https://github.com/mohanksriram/airobot.git@qa#egg=airobot']
 )
 

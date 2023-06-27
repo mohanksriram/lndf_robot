@@ -18,7 +18,7 @@ This is the reference implementation for our paper:
 ## Setup
 ### Clone this repo
 ```
-git clone --recursive git@github.com:elchun/lndf_robot.git
+git clone --recursive git@github.com:mohanksriram/lndf_robot.git
 cd lndf_robot
 ```
 
